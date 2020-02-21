@@ -1,0 +1,2 @@
+# BJUT_SELECT_LESSION
+北工大研究生抢课助手
